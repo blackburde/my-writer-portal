@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html class="html" dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+  <title>test</title>
+</head>
+
+<body>
+<style>
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  min-height: 100vh;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: start;
+
+  background-image: linear-gradient(45deg, #85ffbd 0%, #fffb7d 100%);
+}
+
+.nav {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(62deg, #fbab7e 0%, #f7ce68 100%);
+}
+
+.nav--icon {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2;
+  text-transform: uppercase;
+  background-color: #2c8fb5;
+  cursor: pointer;
+  font-size: 20px;
+  letter-spacing: 3px;
+  color: #fff;
+  text-shadow: 2px 2px 2px #000;
+  background-image: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+.nav--lists {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  z-index: 2;
+  position: relative;
+}
+
+.nav--item {
+  z-index: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 80px;
+  width: 150px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  letter-spacing: 3px;
+  color: #fff;
+  text-shadow: 2px 2px 2px #000;
+  background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
+}
+
+.nav--item:nth-child(2) {
+  transition: top 500ms ease;
+}
+
+.nav--item:nth-child(3) {
+  transition: top 500ms 100ms ease;
+}
+
+.nav--item:nth-child(4) {
+  transition: top 500ms 200ms ease;
+}
+
+.nav--item:nth-child(5) {
+  transition: top 500ms 300ms ease;
+}
+
+.nav--item:nth-child(6) {
+  transition: top 500ms 400ms ease;
+}
+
+.nav--lists:hover .nav--item:nth-child(2) {
+  top: 80px;
+}
+
+.nav--lists:hover .nav--item:nth-child(3) {
+  top: 160px;
+}
+
+.nav--lists:hover .nav--item:nth-child(4) {
+  top: 240px;
+}
+
+.nav--lists:hover .nav--item:nth-child(5) {
+  top: 320px;
+}
+
+.nav--lists:hover .nav--item:nth-child(6) {
+  top: 400px;
+}
+
+.nav--item:hover {
+  background-image: linear-gradient(
+    43deg,
+    #4158d0 0%,
+    #c850c0 46%,
+    #ffcc70 100%
+  );
+}
+
+</style>
+<div class="container">
+  <div class="nav">
+    <ul class="nav--lists">
+      <div class="nav--icon">menu</div>
+      <li class="nav--item">Home</li>
+      <li class="nav--item">About</li>
+      <li class="nav--item">Products</li>
+      <li class="nav--item">Services</li>
+      <li class="nav--item">Contact</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>

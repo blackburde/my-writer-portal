@@ -1,0 +1,157 @@
+<!-- My writer's website - coded by Devon A. Blackburn: HOME -->
+<!DOCTYPE html>
+<html class="html" dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+  <title>Devon A. Blackburn - author | illustrator</title>
+  <meta name="title" content="">
+  <meta name="description" content="Devon A. Blackburn is a science fiction fantasy writer and illustrator based in Illinois, USA, and author of Moonchild: Scorn of the Beggar God Part I.">
+  <link rel="canonical" href="https://www.devonablackburn.com/" />
+  <meta name="keywords" content="Devon A. Blackburn, author, writer, illustrator, science fiction, fantasy">
+  
+<!-- Required meta tags -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- For the search engines -->
+  <meta property="og:title" content="Devon A. Blackburn - author | illustrator" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.devonablackburn.com/" />
+  <meta property="og:image" content="img/Raoaigh-baala_with_fog_in_moon_sharing.webp" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:description" content="Devon A. Blackburn: author of Moonchild, a dark coming of age fantasy novel and the first entry into the Scorn of the Beggar God series." />
+	
+  <script type="application/ld+json"> {
+  "@context": "https:\/\/schema.org",
+  "@graph":[{
+    "@type": "WebPage",
+	"@id": "https:\/\/www.devonablackburn.com\/",
+	"url": "https:\/\/www.devonablackburn.com\/",
+	"name": "Devon A. Blackburn - author | illustrator",
+	"isPartOf":{
+	  "@id": "https:\/\/www.devonablackburn.com\/#website"},
+	  "about":{
+	    "@id": "https:\/\/www.devonablackburn.com\/#organization"},
+		"datePublished": "2026-09-14",
+		"dateModified": "2026-09-14",
+		"description": "Devon A. Blackburn is a science fiction fantasy writer and illustrator based in Illinois, USA, and author of Moonchild: Scorn of the Beggar God Part I.",
+		"breadcrumb": {"@id": "https:\/\/www.devonablackburn.com\/#breadcrumb"},
+		"inLanguage": "en-US",
+		"potentialAction":[{
+		  "@type": "ReadAction",
+		  "target": ["https:\/\/www.devonablackburn.com\/"]}]},
+	{
+	  "@type":"BreadcrumbList",
+	  "@id":"https:\/\/www.devonablackburn.com\/#breadcrumb",
+	  "itemListElement":[{
+	    "@type": "ListItem","position": 1,"name": "Home"}]},
+		{
+		  "@type": "WebSite",
+		  "@id": "https:\/\/www.devonablackburn.com\/#website",
+		  "url": "https:\/\/www.devonablackburn.com\/",
+		  "name": "Devon A. Blackburn",
+		  "description": "Devon A. Blackburn - Home",
+		  "publisher":{
+		    "@id":"https:\/\/www.devonablackburn.com\/#organization"},
+			"potentialAction":[{
+			  "@type":"SearchAction",
+			  "target":{
+			    "@type":"EntryPoint",
+				"urlTemplate":"https:\/\/www.devonablackburn.com\/?s={search_term_string}"},
+				"query-input":{
+				  "@type":"PropertyValueSpecification",
+				  "valueRequired":true,
+				  "valueName":"search_term_string"}}],
+			"inLanguage":"en-US"},
+			{
+			  "@type":"Organization",
+			  "@id":"https:\/\/www.devonablackburn.com\/#organization",
+			  "name":"Devon A. Blackburn",
+			  "url":"https:\/\/www.devonablackburn.com\/"}]}
+	</script>
+
+  <link rel="stylesheet" href="css/style_ice.css" type="text/css">
+  <!-- Thank you to https://icon-sets.iconify.design/tabler/?keyword=tabler for the icons -->
+
+</head>
+
+<body>
+  <!-- Styling for inline svg icons -->
+  <style>
+    .icons {
+      fill: none;
+      stroke: currentColor;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-width: var(--svg-stroke-width--1px, 1px);
+    }
+  </style>
+  
+  <!-- Page wrapper -->
+  <div class="style-ice" id="home page" aria-label="Home page for Devon A. Blackburn's writings and drawings">
+    
+    <!-- Shell wrapper -->
+    <div class="style-ice__shell">
+      
+      <!-- Header -->
+      <header class="style-ice__header">
+        <h1>Devon A. Blackburn</h1>
+        <p>Author | Illustrator</p>
+      </header>
+      
+      <!-- Navigation menu -->
+      <nav class="style-ice__menu" id="navigation menu" aria-label="Navigation menu">
+        <h2 class="style-ice__subheader hidden">Navigation</h2>
+        <input id="toggle" name="menu-toggle" type="checkbox" />
+        <label class="menu-toggle" for="toggle"><span class="style-ice__subheader menu-button-container">Navigation <svg class="style-ice__arrow" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path fill="currentColor" fill-rule="evenodd" d="M.16 11.92h15.68L8 4.08z" clip-rule="evenodd" /></svg>
+        </span></label>  
+        <section class="for-hiding">
+          <ul class="top">
+            <li><a class="style-ice__current-page" href="index.html">Home</a></li>
+            <li><a href="about_me.html">About Me</a></li>
+            <li><a href="#0">Newsletter</a></li>
+            <li><a href="#0">Events</a></li>
+            <li class="icons"><a href="https://bsky.app/profile/doctor-okt.bsky.social" target="_blank"  rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24"><path d="M6.335 5.144C4.681 3.945 2 3.017 2 5.97c0 .59.35 4.953.556 5.661C3.269 14.094 5.686 14.381 8 14c-4.045.665-4.889 3.208-2.667 5.41C6.363 20.428 7.246 21 8 21c2 0 3.134-2.769 3.5-3.5q.5-1 .5-1.5q0 .5.5 1.5c.366.731 1.5 3.5 3.5 3.5c.754 0 1.637-.571 2.667-1.59C20.889 17.207 20.045 14.664 16 14c2.314.38 4.73.094 5.444-2.369c.206-.708.556-5.072.556-5.661c0-2.953-2.68-2.025-4.335-.826C15.372 6.806 12.905 10.192 12 12c-.905-1.808-3.372-5.194-5.665-6.856" class="icons" /></svg></a></li>
+          </ul>
+        </section>
+        <hr />
+        <h2 class="style-ice__subheader">Moonchild</h2>
+        <ul class="bottom">
+          <li><a href="#0">Pre-order</a></li>
+          <li><a href="#0">Excerpt</a></li>
+        </ul>
+      </nav>
+      
+      <main class="style-ice__showcase" id="showcase">
+      <h2 class="style-ice__subheader">Introducing Part 1 of <em>Scorn of the Beggar God</em></h2>
+      <picture>
+        <source media="(min-width: 100%)" srcset="img/book_cover_ice.webp"/>
+        <img src="img/book_cover_ice.webp" alt="Moonchild ice style book cover - the catamount sits in a withered tree" style="max-width: 100%; height: auto;" />
+      </picture>
+      <hr />
+      <p><q><em>At the Edge of the World was a girl and her mother, and the girl felt as though she was about to slip.</em></q></p>
+    </main>
+    
+    <aside class="style-ice__aside">
+      <h2 class="style-ice__subheader">About <em>Moonchild</em></h2>
+      <section id="the pitch for the book">
+        <p>On orders not to go ranging, Aneise contends with her lonely days on the edge of two worlds, loathe to cause more trouble for her maligned, but hard-working mother, Donella.</p>
+        <p>But the allure of adventure is difficult to ignore.</p>
+        <p>When her mother's work entails a whole fortnight alone, Aneise consoles herself with a small excursion in homage to her beloved spirits. Hoping to locate a relic of her favored god, she instead encounters a torment capable of destroying everything and everyone she knows.</p>
+        <p>In the wake of this torment, malicious beings haunt Aneise; her nightmares manifesting into reality. Refusing to hide or look away, she chooses to fight the malevolent forces converging upon her home and her people, too young to understand the perils of a child left to face things adults will not.</p>
+      </section>
+    </aside>
+    
+    <footer class="style-ice__colophon">
+      <p>Devon A. Blackburn<br />
+      Author | Illustrator</p>
+      <p>© 2026, Devon A. Blackburn. All rights reserved.<br />
+      <a href="#0">Privacy Policy</a> | <a href="#0">Cookie Policy</a></p>
+    </footer>
+    
+  </div>
+</div>
+</body>
+</html>
